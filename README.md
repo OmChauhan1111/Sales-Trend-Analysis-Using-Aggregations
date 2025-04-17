@@ -1,7 +1,7 @@
 This project provides an SQL query to analyze monthly revenue and order volume from a given orders table. The query extracts key metrics such as total revenue and distinct order volume, grouped by year and month.
 
 Prerequisites
-A SQL-based database system (MySQL, PostgreSQL, SQL Server, etc.)
+A SQL-based database system (MySQL)
 
 orders table with the following columns:
 
